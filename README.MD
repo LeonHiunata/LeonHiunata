@@ -16,18 +16,19 @@ I enjoy exploring datasets, building predictive models, and understanding the pa
 
 ## Tools & Technologies
 
-Python
-Pandas, NumPy
-Scikit-learn
-Matplotlib, Seaborn
-Jupyter Notebook
-Git & GitHub
+* Python
+* Pandas, NumPy
+* Scikit-learn
+* Matplotlib, Seaborn
+* Jupyter Notebook
+* Git & GitHub
 
 ---
 
 ## Currently Learning
 
 * Model evaluation and feature importance analysis
+* Bussiness Analysis to make from data to insight
 * Building cleaner data science project pipelines
 * Improving reproducibility in machine learning experiments
 
@@ -43,4 +44,6 @@ https://www.kaggle.com/leonhiunata
 ---
 ## GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonHiunata\&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonHiunata&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonHiunata&layout=compact)
